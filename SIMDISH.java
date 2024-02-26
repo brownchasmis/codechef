@@ -1,4 +1,9 @@
-
+/*
+Difficulty:1142
+Problem:SIMDISH
+Date: 26 Feb 2024
+Author: Shatakshi Singh
+*/
 
 import java.util.*;
 import java.lang.*;
