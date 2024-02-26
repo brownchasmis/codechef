@@ -9,6 +9,10 @@ This repository is created with the objective that this will motivate me to solv
     <th>Problem</th>
   </tr>
   <tr>
+    <td>1142</td>
+    <td><a href="https://www.codechef.com/problems/SIMDISH">SIMDISH</a></td>
+  </tr>
+  <tr>
     <td>1069</td>
     <td><a href="https://www.codechef.com/problems/PRIME1">PRIME1</a></td>
   </tr>
