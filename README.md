@@ -17,6 +17,10 @@ This repository is created with the objective that this will motivate me to solv
     <td><a href="https://www.codechef.com/problems/ARRAYRET">ARRAYRET</a></td>
   </tr>
   <tr>
+    <td>1192</td>
+    <td><a href="https://www.codechef.com/problems/SHORTSPELL">SHORTSPELL</a></td>
+  </tr>
+  <tr>
     <td>1142</td>
     <td><a href="https://www.codechef.com/problems/SIMDISH">SIMDISH</a></td>
   </tr>
