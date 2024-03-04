@@ -9,6 +9,10 @@ This repository is created with the objective that this will motivate me to solv
     <th>Problem</th>
   </tr>
   <tr>
+    <td>1202</td>
+    <td><a href="https://www.codechef.com/problems/MAXSCORE7">MAXSCORE7</a></td>
+  </tr>
+  <tr>
     <td>1198</td>
     <td><a href="https://www.codechef.com/problems/ANUUND">ANUUND</a></td>
   </tr>
